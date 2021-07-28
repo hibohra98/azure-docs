@@ -847,6 +847,8 @@ The following limitations apply to tags:
    >
    > * Azure Front Door doesn't support the use of `#` or `:` in the tag name.
    >
+   > * Azure IP Groups & Firewall Policies doesn't support PATCH Operation.
+   >
    > * The following Azure resources only support 15 tags:
    >     * Azure Automation 
    >     * Azure CDN
